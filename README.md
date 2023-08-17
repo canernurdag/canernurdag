@@ -18,7 +18,7 @@
 - Debugging on Unity Editor, IDE and real devices.
 - Strong C# and .NET knowledge with Object-oriented programming (OOP) 
 - Using appropriate Design Patterns (Mostly, Observer, Service-Locator, Object-Pool, Factory)
-- SOLID Principles (Except for DI like Zenject)
+- SOLID Principles
 - Integrate 3rd-party SDKs
 - Integrate with Android and IOS environment.
 
