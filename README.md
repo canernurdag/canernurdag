@@ -19,6 +19,7 @@
 - Strong C# and .NET knowledge with Object-oriented programming (OOP) 
 - Using appropriate Design Patterns (Mostly, Observer, Service-Locator, Object-Pool, Factory)
 - SOLID Principles
+- Using Dependency Injection with Zenject, UniTask, UniRx
 - Integrate 3rd-party SDKs
 - Integrate with Android and IOS environment.
 
