@@ -5,7 +5,7 @@
 <br />
 
 **Summary**
-- Game Developer with 4 years of experience in the mobile gaming industry. 
+- Game Developer with 5+ years of experience in the mobile gaming industry. 
 - Proficient in all-stages of game development life-cycle.
 - Strong understanding of game mechanics, user experience, and industry trends.
 - Fast-prototyping within a dynamic environment.
