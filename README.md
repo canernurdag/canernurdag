@@ -1,5 +1,5 @@
 ### **Caner Nurdag**
-#### Senior Game Developer | Unity Expert certificated by Unity
+#### Senior Game Developer | Unity Expert certified by Unity
 
 <img align="top" alt="PP" width="250px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/51195463?v=4"/>
 <br />
